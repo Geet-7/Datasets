@@ -1,0 +1,98 @@
+Timestamp,Name,Country,Do you own a wrist watch(smart watch also),why kind of watch do you own ?,How many watches do you own. (Number ONLY),if analog watch. what movement ?,favorite Watch Brand of the watches you own ,favorite watch Brand in general,Dream watch,What is the family's income band ? (per year),do you contribute significantly in your family income
+Tablet,Neha Joshi,India,No,yes,yes,Laptop,no,No,yes,,2.5
+yes,Neha Joshi,india,Yes,Yes,No,Smartphone,Yes,Smart watch,Tablet,10.3,10.3
+Tablet,Kunal Shah,Inda,Yes,Yes,yes,yes,yes,Smartwatch,Smartphone,2.5,2.5
+Smartwatch,Sneha Kulkarni,INDIA,Yes,No,No,Smart watch,Yes,No,Yes,2.5,9.0
+Smartwatch,Priya Nair,,Yes,no,yes,Laptop,yes,Tablet,no,2.5,
+Tablet,Pooja Deshmukh,india,yes,yes,No,No,yes,Laptop,No,10.3,10.3
+Smartwatch,Rahul Mehta,INDIA,,Yes,yes,Smartphone,yes,Laptop,No,3.7,2.5
+,Pooja Deshmukh,India,Yes,Yes,No,no,yes,Laptop,Smartwatch,9.0,9.0
+Tablet,Pooja Deshmukh,Inda,No,no,No,Laptop,Yes,No,Tablet,10.3,10.3
+Laptop,Kunal Shah,INDIA,Yes,yes,yes,no,No,Smartwatch,Yes,3.7,3.7
+Smart watch,Ankit Pawar,india,No,Yes,no,Smart watch,No,no,Yes,,2.5
+Yes,Sneha Kulkarni,India,No,no,yes,Smartphone,yes,no,Smart watch,10.3,3.7
+yes,Pooja Deshmukh,Inda,no,no,Yes,,No,Yes,Yes,2.5,3.7
+Tablet,Aarav Sharma,India,No,No,yes,Smart watch,no,Smart watch,Smartphone,2.5,9.0
+Yes,Rahul Mehta,india,Yes,No,no,Yes,No,No,no,10.3,9.0
+Smartwatch,Aarav Sharma,INDIA,yes,Yes,No,yes,Yes,,Yes,10.3,9.0
+Tablet,Priya Nair,INDIA,no,Yes,no,No,no,Smartphone,Tablet,9.0,3.7
+Smartwatch,Amit Verma,INDIA,No,no,Yes,no,,Smartphone,No,3.7,
+Smartphone,Amit Verma,INDIA,no,yes,yes,No,yes,yes,Smart watch,2.5,9.0
+no,Amit Verma,india,yes,yes,,Smartphone,yes,Smart watch,yes,2.5,3.7
+,Neha Joshi,Inda,,No,Yes,Yes,yes,No,Smart watch,2.5,3.7
+Laptop,Ankit Pawar,india,Yes,yes,yes,Smart watch,no,Tablet,Smartwatch,10.3,3.7
+Yes,Kunal Shah,Inda,Yes,yes,Yes,No,no,Smartphone,Smart watch,3.7,9.0
+no,,INDIA,Yes,no,Yes,Smartphone,No,yes,Laptop,3.7,3.7
+yes,Rahul Mehta,INDIA,yes,yes,Yes,No,no,No,No,9.0,2.5
+no,Sneha Kulkarni,,Yes,no,Yes,yes,Yes,no,no,10.3,3.7
+Yes,Kunal Shah,india,,yes,,Laptop,yes,no,yes,9.0,2.5
+Smartwatch,Aarav Sharma,INDIA,Yes,Yes,Yes,Smartwatch,no,No,Laptop,10.3,2.5
+No,Neha Joshi,india,yes,yes,no,no,yes,Smartphone,no,9.0,3.7
+yes,Aarav Sharma,,Yes,no,Yes,Laptop,no,Smartphone,Tablet,2.5,
+Smart watch,Pooja Deshmukh,INDIA,Yes,no,no,Smart watch,Yes,No,Yes,3.7,2.5
+Smartwatch,Amit Verma,Inda,yes,Yes,no,no,yes,Smart watch,Tablet,,3.7
+Laptop,Rohan Patil,INDIA,no,Yes,No,Smart watch,no,Smartphone,Tablet,2.5,10.3
+Smartphone,Neha Joshi,,yes,yes,,Laptop,,,Smartphone,3.7,2.5
+Tablet,Sneha Kulkarni,India,no,Yes,,Yes,no,yes,no,3.7,10.3
+Smartwatch,Neha Joshi,Inda,No,No,Yes,yes,Yes,Smart watch,,3.7,3.7
+Smart watch,Amit Verma,Inda,No,yes,Yes,Smartphone,no,Smartwatch,yes,2.5,2.5
+yes,,Inda,Yes,No,,Tablet,No,yes,Yes,2.5,9.0
+Smart watch,Amit Verma,India,no,No,Yes,Smartwatch,Yes,Smartphone,Smartphone,9.0,3.7
+Laptop,Rohan Patil,India,yes,Yes,no,Laptop,Yes,,Laptop,10.3,9.0
+No,Rohan Patil,india,yes,yes,No,Tablet,Yes,Tablet,Laptop,9.0,9.0
+Yes,Ankit Pawar,Inda,No,yes,No,No,yes,Laptop,Yes,9.0,3.7
+no,Rohan Patil,Inda,no,No,no,Smart watch,Yes,No,Tablet,10.3,10.3
+Smartphone,Sneha Kulkarni,Inda,Yes,no,yes,,No,Yes,Laptop,2.5,10.3
+yes,Ankit Pawar,INDIA,No,No,No,Tablet,yes,Smartwatch,Smartwatch,3.7,2.5
+Smart watch,Amit Verma,Inda,yes,Yes,yes,Tablet,No,Tablet,no,9.0,2.5
+no,Priya Nair,India,no,Yes,No,No,Yes,Smartwatch,Smartwatch,3.7,10.3
+No,Aarav Sharma,Inda,no,no,no,Smartwatch,no,Smartphone,Yes,2.5,3.7
+yes,Priya Nair,Inda,yes,No,yes,Smartphone,Yes,Smartphone,Smartphone,10.3,2.5
+no,Kunal Shah,india,Yes,no,,No,No,No,Smartwatch,10.3,2.5
+Smartwatch,Sneha Kulkarni,,No,No,,Smartwatch,yes,Laptop,Yes,2.5,3.7
+No,Rohan Patil,Inda,No,yes,No,Smartwatch,no,Smartwatch,yes,2.5,3.7
+Smartphone,,India,No,yes,No,Smart watch,Yes,Laptop,Smartwatch,2.5,10.3
+Laptop,Priya Nair,INDIA,No,,yes,Smart watch,No,No,Smartphone,10.3,9.0
+Laptop,Pooja Deshmukh,INDIA,yes,Yes,no,Smart watch,Yes,yes,Smart watch,9.0,2.5
+yes,Kunal Shah,India,Yes,No,yes,yes,no,Tablet,Smartphone,2.5,3.7
+no,,India,Yes,Yes,Yes,Yes,Yes,Tablet,yes,9.0,2.5
+Smartphone,Neha Joshi,INDIA,yes,,no,No,no,Laptop,Smartwatch,2.5,2.5
+Laptop,Priya Nair,india,no,No,No,yes,Yes,Laptop,Smartphone,2.5,3.7
+Smart watch,Rahul Mehta,India,Yes,no,yes,yes,No,no,Smartwatch,3.7,10.3
+Smart watch,Aarav Sharma,INDIA,No,yes,no,yes,No,Laptop,Smart watch,10.3,9.0
+Smartphone,Rohan Patil,India,no,yes,Yes,yes,Yes,,No,9.0,3.7
+yes,Pooja Deshmukh,Inda,yes,No,No,No,No,Yes,No,9.0,9.0
+No,Sneha Kulkarni,Inda,no,yes,No,Smartphone,yes,Tablet,Smartphone,10.3,9.0
+Smartphone,Rohan Patil,India,No,Yes,Yes,no,Yes,Smartphone,Smart watch,10.3,2.5
+Laptop,Rohan Patil,India,No,yes,No,no,No,Tablet,Smartphone,9.0,3.7
+yes,Neha Joshi,Inda,No,No,Yes,Smartphone,Yes,Smartwatch,yes,10.3,10.3
+No,Kunal Shah,Inda,,no,yes,yes,Yes,Smartwatch,yes,2.5,9.0
+,Aarav Sharma,india,no,Yes,no,Smartwatch,No,Smartphone,Laptop,2.5,10.3
+Smart watch,,India,,Yes,yes,No,Yes,Tablet,no,9.0,10.3
+Smartwatch,,INDIA,Yes,No,yes,no,No,yes,no,3.7,10.3
+no,Rohan Patil,india,No,no,No,Tablet,yes,No,Laptop,9.0,10.3
+Tablet,Amit Verma,india,Yes,Yes,yes,yes,No,No,No,10.3,10.3
+no,Aarav Sharma,Inda,no,no,,no,Yes,,Smart watch,9.0,3.7
+no,Rohan Patil,india,no,yes,no,No,no,Laptop,Laptop,2.5,2.5
+no,Ankit Pawar,India,Yes,No,Yes,no,Yes,Tablet,Tablet,3.7,10.3
+Yes,Priya Nair,India,No,yes,yes,Yes,Yes,Tablet,Smartphone,2.5,10.3
+Smartwatch,Kunal Shah,india,yes,yes,yes,Smart watch,No,Smartphone,yes,10.3,2.5
+Smart watch,Kunal Shah,India,No,no,Yes,yes,Yes,Smart watch,Tablet,9.0,10.3
+yes,Pooja Deshmukh,india,yes,yes,no,Smart watch,Yes,Yes,Tablet,9.0,10.3
+Laptop,Priya Nair,INDIA,Yes,yes,no,Smartphone,Yes,no,Smartphone,10.3,10.3
+Smart watch,Kunal Shah,india,yes,,Yes,Smartphone,No,Smart watch,no,9.0,3.7
+Yes,Amit Verma,India,no,No,,yes,yes,Yes,yes,3.7,10.3
+Smartwatch,,India,No,No,no,Smartphone,no,Smart watch,Smartphone,10.3,10.3
+no,Aarav Sharma,india,no,Yes,yes,no,no,Laptop,Smartwatch,,10.3
+Tablet,Neha Joshi,Inda,no,no,yes,yes,yes,Tablet,Smart watch,10.3,2.5
+Smartwatch,Pooja Deshmukh,Inda,no,Yes,,no,no,Yes,Smartwatch,2.5,2.5
+,Sneha Kulkarni,india,No,yes,No,Smartwatch,No,no,Smart watch,2.5,9.0
+yes,Rahul Mehta,INDIA,no,No,No,,no,Smartwatch,no,2.5,9.0
+Smart watch,Pooja Deshmukh,india,yes,no,no,Smartwatch,Yes,yes,no,10.3,9.0
+no,Rohan Patil,india,yes,yes,yes,Laptop,no,Smartwatch,yes,10.3,9.0
+,Rahul Mehta,Inda,no,no,Yes,Tablet,No,Yes,,10.3,9.0
+yes,Amit Verma,INDIA,no,Yes,,Laptop,No,Laptop,Smart watch,9.0,9.0
+Smartphone,,INDIA,no,No,no,Laptop,Yes,no,,3.7,9.0
+Tablet,Rahul Mehta,Inda,yes,no,yes,Tablet,Yes,yes,Smartphone,9.0,10.3
+No,Rohan Patil,india,No,yes,yes,No,No,Smartphone,Yes,3.7,10.3
+No,Ankit Pawar,India,No,No,no,Yes,yes,Yes,Laptop,10.3,2.5
